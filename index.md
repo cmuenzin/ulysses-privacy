@@ -11,7 +11,7 @@ The Application processes information only on your device. It has no Internet pe
 ## 2. Controller and contact
 
 Caspar Münzinger
-Email: contact@muenzingersystems.com
+Email: contact@casparmuenzinger.com
 
 ## 3. Purpose of the Application
 

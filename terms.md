@@ -43,4 +43,4 @@ The Service Provider may amend these terms. The current version is published at 
 ## 10. Contact
 
 Caspar Münzinger
-Email: contact@muenzingersystems.com
+Email: contact@casparmuenzinger.com
